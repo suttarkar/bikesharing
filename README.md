@@ -6,7 +6,28 @@
 
 # Results
 
+The link to the Tableau story and all visualizations on Tableau is below.
 [link to dashboards](https://public.tableau.com/shared/TKG7GPZ39?:display_count=n&:origin=viz_share_link)
+
+![visualization1](resources/NYCCitibikeAnalysis.png)
+
+
+![visualization2](resources/NYCCitibikeAnalysis2.png)
+
+
+![visualization3](resources/NYCCitibikeAnalysis3.png)
+
+
+![visualization4](resources/NYCCitibikeAnalysis4.png)
+
+
+![visualization5](resources/NYCCitibikeAnalysis5.png)
+
+
+![visualization6](resources/NYCCitibikeAnalysis6.png)
+
+
+![visualization7](resources/NYCCitibikeAnalysis7.png)
 
 
 # Summary
