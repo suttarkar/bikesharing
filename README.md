@@ -35,7 +35,7 @@ There are descriptions provided below each visualization for clarification purpo
 
 ### Visualization 6
 ![visualization6](resources/NYCCitibikeAnalysis6.png)
-* The sixth visualization shows the popularity of the starting stations. The southwest area of NYC seems to contain some of the most popular starting stations. 
+* The sixth visualization shows the popularity of the starting stations. The southwest area of NYC seems to contain some of the most popular starting stations(could be due to tourists). 
 
 ### Visualization 7
 ![visualization7](resources/NYCCitibikeAnalysis7.png)
@@ -43,4 +43,4 @@ There are descriptions provided below each visualization for clarification purpo
 
 # Summary
 
-Some other visualizations that can be made would be to find the most common routes and how many people use them as well as .
+Some other visualizations that can be made would be to find the most common routes and how many people use them(could be filtered by time for further detail) as well as finding the most used bikes so they could be checked for repairs/maintenance.
