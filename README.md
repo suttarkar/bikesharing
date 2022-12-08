@@ -42,5 +42,6 @@ There are descriptions provided below each visualization for clarification purpo
 * The seventh visualization shows the popularity of the ending stations. The stations seem to be just as popular starting stations as ending stations. The popularity of the stations seems nearly identical in both this and the previous visualization.
 
 # Summary
+The majority of rides seem to be male subscribers making their weekday commutes. If a bike-share program is to be created in Des Moines it should be made in a business district, as this would cater to a similar population.
 
 Some other visualizations that can be made would be to find the most common routes and how many people use them(could be filtered by time for further detail) as well as finding the most used bikes so they could be checked for repairs/maintenance.
