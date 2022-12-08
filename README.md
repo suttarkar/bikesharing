@@ -7,10 +7,12 @@
 # Results
 
 The link to the Tableau story and all visualizations on Tableau is below.
+
 [link to dashboards](https://public.tableau.com/shared/TKG7GPZ39?:display_count=n&:origin=viz_share_link)
 
-![visualization1](resources/NYCCitibikeAnalysis.png)
 
+![visualization1](resources/NYCCitibikeAnalysis.png)
+This first visualization shows that most rides are for a duration of around 5 minutes.
 
 ![visualization2](resources/NYCCitibikeAnalysis2.png)
 
